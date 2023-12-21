@@ -1,4 +1,4 @@
-Daily Journal is a web application built with Node.js, Express, and MongoDB that allows users to create, edit, and manage blog posts seamlessly. Share your thoughts, stories, and ideas with the world through this easy-to-use blogging platform.
+ScribbleHUb is a web application built with Node.js, Express, and MongoDB that allows users to create, edit, and manage blog posts seamlessly. Share your thoughts, stories, and ideas with the world through this easy-to-use blogging platform.
 
 Table of Contents
 Features
