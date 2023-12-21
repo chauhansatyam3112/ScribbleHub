@@ -21,7 +21,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/chauhansatyam3112/ScribbleHub.git
 Navigate to the project directory:
 
 bash
